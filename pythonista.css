@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville|Racing+Sans+One|Satisfy);
+
+body {
+    font-size: 150%;
+    text-align: left;
+    font-family: Libre Baskerville;
+}
+
+p {
+    font-size: 120%;
+    font-weight: normal;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+}
+
+em {
+    font-family: Satisfy;
+    font-size: 142%;
+}
+
+strong {
+    font-family: Racing Sans One;
+    font-size: 127%;
+    letter-spacing: -2px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    color: purple;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+#ThreeD H1 {
+    font-family: Racing Sans One;
+    font-size: 300%;
+}
+
+#thequestion p {
+    font-family: Racing Sans One;
+}
